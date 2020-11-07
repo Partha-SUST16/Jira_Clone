@@ -1,0 +1,26 @@
+{
+  "name": "jira-clone",
+  "version": "1.0.0",
+  "description": "Simple Jira Board interaction with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Partha-SUST16/Jira_Clone.git"
+  },
+  "keywords": [
+    "angular",
+    "typescript",
+    "jira-clone",
+    "akita",
+    "tailwind"
+  ],
+  "author": "PP_Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Partha-SUST16/Jira_Clone/issues"
+  },
+  "homepage": "https://github.com/Partha-SUST16/Jira_Clone#readme"
+}
